@@ -1,0 +1,8 @@
+[user]
+	name = blind181
+	email = blind181@126.com
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\user\\Documents\\gitignore_global.txt
+[gui]
+	recentrepo = C:/Node
